@@ -1,6 +1,3 @@
 #include "func.h"
-#include <iostream>
 
-using namespace std;
-
-void say_hello() { std::cout << "Hello" << std::endl; }
+int add_num(int lhs, int rhs) { return lhs + rhs; }

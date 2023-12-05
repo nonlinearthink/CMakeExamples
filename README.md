@@ -1,19 +1,21 @@
 # CMakeExamples
 
-A series of CMake examples to learn modern CMake.
-
 ## example1
 
-The most simple CMake project.
+创建最简单的 CMake 程序。
 
 ## example2
 
-CMake project has a library and a executable.
+学习使用 `add_library` 和 `add_executable`。
 
 ## example3
 
-The common CMake project structure.
+学习使用 `add_subdirectory` 和组织项目结构。
 
 ## example4
 
-Build static and shared library using CMake.
+学习 CMake 动态库链接。
+
+## example5
+
+学习编写 CTest 测试用例。

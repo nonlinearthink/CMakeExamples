@@ -1,1 +1,1 @@
-void say_hello();
+int add_num(int lhs, int rhs);
